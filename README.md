@@ -1,8 +1,8 @@
 This Windows application provides and interface for running ITM in the Area Mode and the Point-To-Point mode.
 You will need to unzip the file PropagationITM.zip into a directory.  For Point-To-Point calculations you will
 also need the GLOBE terrain data files.  The GLOBE files can be downloaded from https://www.ngdc.noaa.gov/mgg/topo/gltiles.html
-Place the unzipped terrain files and the globe.dat file into a directory.
-You can specifiy the location of the terrain data by clicking the "Set Terrain Dir" button when in the
+All files can be downloaded using the link "All Tiles in One .zip file".  Place the unzipped terrain files and the globe.dat
+file into a directory.  You can specifiy the location of the terrain data by clicking the "Set Terrain Dir" button when in the
 Point-To-Point mode.
 
 _________________________________________________________________________________________________________________________________
